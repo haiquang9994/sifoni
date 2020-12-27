@@ -1,9 +1,13 @@
 {
-    "name": "sifoni/sifoni",
+    "name": "haiquang9994/sifoni",
     "description": "PHP Web Framework based on Symfony2 Components & Silex Framework",
     "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Nguyen Hai Quang",
+            "email": "haiquang9994@gmail.com"
+        },
         {
             "name": "KhanhIceTea",
             "email": "khanhicetea@gmail.com"
@@ -22,10 +26,10 @@
         "twig/twig": "~1.8|~2.0",
         "silex/web-profiler": "^2.0",
         "swiftmailer/swiftmailer": "~5.4",
-        "illuminate/database": "~5.4",
-        "illuminate/events": "~5.4",
-        "illuminate/container": "~5.4",
-        "illuminate/cache": "~5.4"
+        "illuminate/database": "~5.6",
+        "illuminate/events": "~5.6",
+        "illuminate/container": "~5.6",
+        "illuminate/cache": "~5.6"
     },
     "require-dev": {
         "symfony/var-dumper": "~2.8|^3.0",
